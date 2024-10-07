@@ -3,3 +3,15 @@ body{
     font-size: 2em;
     font-family: arial;
 }
+
+#myid{
+    display: block;
+    text-align: center;
+    font-size: 2em;
+}
+
+.mybttns{
+    text-align: center;
+    padding: 30px;
+    font-size: 3em;
+}
