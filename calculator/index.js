@@ -22,7 +22,7 @@
 // console.log(num);
 // // output will be 251 since it will be accepting strings
 
-// COUNTER
+// COUNTER - simple counting using buttons
 
 const increase = document.getElementById("incbtn");
 const decrease = document.getElementById("decbtn");
