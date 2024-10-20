@@ -1,0 +1,17 @@
+body{
+    font-family: Verdana;
+    text-align: center;
+}
+#mybutton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 5 px;
+}
+#mylabel{
+    font-size: 3em;
+}
+#mybutton1{
+    font-size: 2em;
+    padding: 5px 25px;
+    border: 2px;
+}
